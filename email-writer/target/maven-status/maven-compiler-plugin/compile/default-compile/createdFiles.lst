@@ -1,0 +1,3 @@
+com\email\writer\controller\EmailGeneratorController.class
+com\email\writer\EmailRequest.class
+com\email\writer\EmailWriterApplication.class
